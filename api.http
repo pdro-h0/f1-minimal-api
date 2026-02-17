@@ -1,0 +1,11 @@
+@baseURL = http://localhost:3333
+
+GET {{baseURL}}/team
+###
+
+
+GET {{baseURL}}/drivers
+###
+
+
+GET {{baseURL}}/drivers/2
